@@ -1,0 +1,22 @@
+Hit:1 http://deb.anydesk.com all InRelease
+Ign:2 http://ppa.launchpad.net/haraldhv/shotcut/ubuntu lunar InRelease
+Hit:3 https://download.virtualbox.org/virtualbox/debian bullseye InRelease
+Hit:4 https://packages.microsoft.com/repos/vscode stable InRelease
+Hit:5 https://linux.teamviewer.com/deb stable InRelease
+Hit:6 https://packages.microsoft.com/repos/edge stable InRelease
+Ign:7 http://ppa.launchpad.net/micahflee/ppa/ubuntu lunar InRelease
+Hit:8 https://repo.skype.com/deb stable InRelease
+Hit:9 https://repo.steampowered.com/steam stable InRelease
+Get:10 https://packages.microsoft.com/repos/ms-teams stable InRelease [5,931 B]
+Hit:12 https://packages.microsoft.com/repos/code stable InRelease
+Err:13 http://ppa.launchpad.net/haraldhv/shotcut/ubuntu lunar Release
+  404  Not Found [IP: 185.125.190.52 80]
+Get:14 https://deb.i2p2.de unstable InRelease [15.6 kB]
+Hit:15 https://repo.nordvpn.com/deb/nordvpn/debian stable InRelease
+Err:16 https://mirror.mwt.me/ghd/deb any InRelease
+  410  Gone [IP: 172.67.71.39 443]
+Err:17 http://ppa.launchpad.net/micahflee/ppa/ubuntu lunar Release
+  404  Not Found [IP: 185.125.190.52 80]
+Hit:11 http://kali.download/kali kali-rolling InRelease
+Get:18 http://storage.googleapis.com/tensorflow-serving-apt stable InRelease [3,026 B]
+Reading package lists...
